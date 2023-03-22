@@ -1,6 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KruASe76&show_icons=true&theme=monokai">
-  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KruASe76&layout=compact&show_icons=true&theme=monokai&exclude_repo=Clang-VMSH,Python3-VMSH&hide=c%2B%2B,cython,roff,powershell,fortran">
 </a>
 
