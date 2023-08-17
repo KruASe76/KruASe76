@@ -3,7 +3,6 @@
 - 👯 I’m looking to collaborate on (see the first point)
 - 💬 Ask me about everything you want, I will probably answer
 - 📫 How to reach me: [Telegram](https://t.me/KruASe), Discord: kruase (I would most likely ignore pointless Discord friend requests, also don't spam in my DMs please)
-- 😄 Pronouns: He/Him (why is it even a thing...)
 - ⚡ Fun fact: Never gonna let you down (for real)
 
 <details>
