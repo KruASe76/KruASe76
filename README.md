@@ -1,20 +1,15 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KruASe76&show_icons=true&theme=monokai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KruASe76&layout=compact&show_icons=true&theme=monokai&exclude_repo=Clang-VMSH,Python3-VMSH&hide=c%2B%2B,cython,roff,powershell,fortran">
-</a>
+- 🔭 I’m currently working on a simulation in a private repository :)
+- 🌱 I’m currently learning Android Jetpack Compose mainly, and anything else at the same time
+- 👯 I’m looking to collaborate on (see the first point)
+- 💬 Ask me about everything you want, I will probably answer
+- 📫 How to reach me: [Telegram](https://t.me/KruASe), Discord: kruase (I would most likely ignore pointless Discord friend requests, also don't spam in my DMs please)
+- 😄 Pronouns: He/Him (why is it even a thing...)
+- ⚡ Fun fact: Never gonna let you down (for real)
 
-
-<!--
-**KruASe76/KruASe76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>GitHub Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.kruase.vercel.app/api?username=KruASe76&show_icons=true&theme=monokai">
+    <img align="center" src="https://github-readme-stats.kruase.vercel.app/api/top-langs/?username=KruASe76&layout=compact&show_icons=true&theme=monokai&exclude_repo=Clang-VMSH,Python3-VMSH&hide=c%2B%2B,cython,roff,powershell,fortran">
+  </a>
+</details>
