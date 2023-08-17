@@ -1,3 +1,6 @@
+Beginner back-end developer, mainly on Python3 and Kotlin.  
+16 years old.
+ 
 - 🔭 I’m currently working on a simulation in a private repository :)
 - 🌱 I’m currently learning Android Jetpack Compose mainly, and anything else at the same time
 - 👯 I’m looking to collaborate on (see the first point)
