@@ -10,9 +10,9 @@ Beginner back-end developer, mainly on Python3 and Kotlin.
 - ⚡ Fun fact: Never gonna let you down (for real)
 
 <details>
-  <summary><b>GitHub Stats</b></summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.kruase.vercel.app/api?username=KruASe76&show_icons=true&theme=monokai">
-    <img align="center" src="https://github-readme-stats.kruase.vercel.app/api/top-langs/?username=KruASe76&layout=donut&show_icons=true&theme=monokai&exclude_repo=typing-trainer,.dotfiles,ies&hide=roff">
-  </a>
+<summary><b>GitHub Stats</b></summary>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.kruase.vercel.app/api?username=KruASe76&show_icons=true&theme=monokai&hide_border=true"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.kruase.vercel.app/api/top-langs/?username=KruASe76&layout=donut&show_icons=true&theme=monokai&hide_border=true&exclude_repo=typing-trainer,.dotfiles,ies&hide=roff"></a> |
+| ------------- | ------------- |
+
 </details>
