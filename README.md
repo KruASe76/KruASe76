@@ -7,7 +7,7 @@ Beginner back-end developer, mainly on Python3 and Kotlin.
 - 💬 Ask me about anything you want, I will probably answer
 - 📫 How to reach me: [Telegram](https://t.me/KruASe), [Discord](https://discordapp.com/users/689766059712315414)
   (I would most likely ignore pointless Discord friend requests, also don't spam in my DMs please)
-- ⚡ Fun fact: Never gonna let you down (for real)
+- ⚡ Fun fact: Never gonna let you down
 
 <details>
 <summary><b>GitHub Stats</b></summary>
