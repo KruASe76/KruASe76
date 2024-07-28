@@ -1,7 +1,7 @@
 Beginner back-end developer, mainly on Python3 and Kotlin.  
 17 years old.
  
-- 🔭 I’m currently working on my life as a [HSSE MIPT]([url](https://hsse.mipt.ru/)) student
+- 🔭 I’m currently working on my life as a [HSSE MIPT](https://hsse.mipt.ru/) student
   - [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0 in the backlog...
 - 🌱 I’m currently learning Spring Boot for Kotlin mainly, and everything else at the same time
 - 👯 I’m looking to collaborate on some fun project, why not :)
