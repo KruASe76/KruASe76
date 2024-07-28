@@ -1,8 +1,9 @@
 Beginner back-end developer, mainly on Python3 and Kotlin.  
 17 years old.
  
-- 🔭 I’m currently working on [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0, but... Russian General State Exams are a bit more important
-- 🌱 I’m currently learning Android Jetpack Compose mainly, and everything else at the same time
+- 🔭 I’m currently working on my life as a [HSSE MIPT]([url](https://hsse.mipt.ru/)) student
+  - [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0 in the backlog...
+- 🌱 I’m currently learning Spring Boot for Kotlin mainly, and everything else at the same time
 - 👯 I’m looking to collaborate on some fun project, why not :)
 - 💬 Ask me about anything you want, I will probably answer
 - 📫 How to reach me: [Telegram](https://t.me/KruASe), [Discord](https://discordapp.com/users/689766059712315414)
