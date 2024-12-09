@@ -1,5 +1,4 @@
-Beginner back-end developer, mainly on Python3 and Kotlin.  
-17 years old.
+Beginner back-end developer, mainly on Python3 and Kotlin, 17 y.o.
  
 - 🔭 I’m currently working on my life as a [HSSE MIPT](https://hsse.mipt.ru/) student
   - [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0 in the backlog...
