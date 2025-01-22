@@ -1,5 +1,7 @@
-Beginner back-end developer, mainly on Python3 and Kotlin, 17 y.o.
- 
+Pre-middle backend developer, mainly on Python3 and Kotlin, Fedora Linux enjoyer, 17 y.o.
+
+VK intern - summer 2024 (Python3 backend)
+
 - 🔭 I’m currently working on my life as a [HSSE MIPT](https://hsse.mipt.ru/) student
   - [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0 in the backlog...
 - 🌱 I’m currently learning Spring Boot for Kotlin mainly, and everything else at the same time
