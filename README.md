@@ -1,10 +1,12 @@
-Pre-middle backend developer, mainly on Python3 and Kotlin, Fedora Linux enjoyer, 17 y.o.
+Pre-middle backend developer (mainly on Python3 and Java/**Kotlin**), Fedora Linux enjoyer, 17 y.o.
 
-VK intern - summer 2024 (Python3 backend)
+> **Internships**
+> - VK - summer 2024 (Python3 backend)
 
-- 🔭 I’m currently working on my life as a [HSSE MIPT](https://hsse.mipt.ru/) student
+- 🔭 I’m currently trying to survive as a [HSSE MIPT](https://hsse.mipt.ru/) student
   - [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0 in the backlog...
-- 🌱 I’m currently learning Spring Boot for Kotlin mainly, and everything else at the same time
+  - "Killer game" Telegram bot (for team building) in the backlog...
+- 🌱 I’m currently learning Spring Boot, GitLab CI, and algorithms mainly, and everything else at the same time
 - 👯 I’m looking to collaborate on some fun project, why not :)
 - 💬 Ask me about anything you want, I will probably answer
 - 📫 How to reach me: [Telegram](https://t.me/KruASe), [Discord](https://discordapp.com/users/689766059712315414)
