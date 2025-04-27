@@ -1,4 +1,4 @@
-Pre-middle backend developer (mainly on Python3 and Java/**Kotlin**), Fedora Linux enjoyer, 17 y.o.
+Pre-middle backend developer (mainly on Python3 and Java/**Kotlin**) and beginner DevOps, Fedora Linux enjoyer, 18 y.o.
 
 > **Internships**
 > - VK - summer 2024 (Python3 backend)
