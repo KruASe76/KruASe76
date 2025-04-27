@@ -1,7 +1,6 @@
-Pre-middle backend developer (mainly on Python3 and Java/**Kotlin**) and beginner DevOps, Fedora Linux enjoyer, 18 y.o.
+### [CV [RU]](https://budu.jobs/cv/p/kruase)
 
-> **Internships**
-> - VK - summer 2024 (Python3 backend)
+Pre-middle backend developer (mainly on Python3 and Java/**Kotlin**) and beginner DevOps, Fedora Linux enjoyer, 18 y.o.
 
 - 🔭 I’m currently trying to survive as a [HSSE MIPT](https://hsse.mipt.ru/) student
   - [MineNopoly](https://github.com/KruASe76/MineNopoly) 2.0 in the backlog...
