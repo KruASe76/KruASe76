@@ -1,4 +1,4 @@
-### [CV [RU]](https://budu.jobs/cv/p/kruase)
+# [CV [RU]](https://budu.jobs/cv/p/kruase)
 
 Pre-middle backend developer (mainly on Python3 and Java/**Kotlin**) and beginner DevOps, Fedora Linux enjoyer, 18 y.o.
 
